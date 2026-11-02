@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-muscle-oxygenation-nirs-smo2-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for monitoring muscle oxygen saturation (SmO2), near-infrared spectroscopy (NIRS) desaturation profiles, and hyperemic reperfusion recovery kinetics.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
